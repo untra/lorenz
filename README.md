@@ -15,4 +15,3 @@
 * 0 key resets the view rotation
 
 * 9 key resets sigma, beta, rho to defaults 10, 2.666, 28, respectively
-* 
