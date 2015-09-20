@@ -80,9 +80,11 @@ void key(unsigned char k, int x, int y) {
   else if (k == '0')
   th = ph = 0;
   else if (k == '9')
-  s = 10;
-  b = 2.666;
-  r = 28;
+  {
+    s = 10;
+    b = 2.666;
+    r = 28;
+  }
   else if (k=='a')
   s -= 1; // decrease sigma
   else if (k=='q')
